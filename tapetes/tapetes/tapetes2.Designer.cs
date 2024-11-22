@@ -148,7 +148,7 @@ namespace tapetes
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-			this.ClientSize = new System.Drawing.Size(747, 500);
+			this.ClientSize = new System.Drawing.Size(739, 499);
 			this.Controls.Add(this.pictureBox5);
 			this.Controls.Add(this.pictureBox4);
 			this.Controls.Add(this.pictureBox3);
