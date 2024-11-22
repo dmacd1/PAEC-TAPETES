@@ -59,7 +59,7 @@ namespace tapetes
 			// pictureBox1
 			// 
 			this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-			this.pictureBox1.Location = new System.Drawing.Point(155, 124);
+			this.pictureBox1.Location = new System.Drawing.Point(155, 125);
 			this.pictureBox1.Name = "pictureBox1";
 			this.pictureBox1.Size = new System.Drawing.Size(442, 253);
 			this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -70,9 +70,9 @@ namespace tapetes
 			// 
 			this.label2.BackColor = System.Drawing.SystemColors.ControlLightLight;
 			this.label2.Font = new System.Drawing.Font("Mongolian Baiti", 16.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.label2.Location = new System.Drawing.Point(186, 58);
+			this.label2.Location = new System.Drawing.Point(180, 42);
 			this.label2.Name = "label2";
-			this.label2.Size = new System.Drawing.Size(374, 27);
+			this.label2.Size = new System.Drawing.Size(393, 27);
 			this.label2.TabIndex = 8;
 			this.label2.Text = "PROYECTO TRANSVERSAL\r\n\r\n";
 			// 
