@@ -64,12 +64,12 @@ namespace tapetes
 			// label1
 			// 
 			this.label1.BackColor = System.Drawing.SystemColors.ControlLightLight;
-			this.label1.Font = new System.Drawing.Font("Mongolian Baiti", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label1.Font = new System.Drawing.Font("Mongolian Baiti", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
 			this.label1.Image = ((System.Drawing.Image)(resources.GetObject("label1.Image")));
-			this.label1.Location = new System.Drawing.Point(81, 129);
+			this.label1.Location = new System.Drawing.Point(66, 129);
 			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(322, 153);
+			this.label1.Size = new System.Drawing.Size(375, 193);
 			this.label1.TabIndex = 3;
 			this.label1.Text = "*Trabajadores \r\n     $225 x Persona\r\n\r\n*Diseño\r\n     $2000-$5000 Dependiendo del " +
 	"tamaño\r\n\r\n*Alimentos \r\n     $60 x Persona\r\n";
