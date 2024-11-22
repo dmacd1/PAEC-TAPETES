@@ -1,0 +1,22 @@
+D:\Tareas\SharpDevelop Projects\tapetes\tapetes\obj\Debug\tapetes.csprojResolveAssemblyReference.cache
+D:\Tareas\SharpDevelop Projects\tapetes\tapetes\obj\Debug\tapetes.MainForm.resources
+D:\Tareas\SharpDevelop Projects\tapetes\tapetes\obj\Debug\tapetes.tapetes2.resources
+D:\Tareas\SharpDevelop Projects\tapetes\tapetes\obj\Debug\tapetes.csproj.GenerateResource.Cache
+D:\Tareas\SharpDevelop Projects\tapetes\tapetes\bin\Debug\tapetes.exe.config
+D:\Tareas\SharpDevelop Projects\tapetes\tapetes\bin\Debug\tapetes.exe
+D:\Tareas\SharpDevelop Projects\tapetes\tapetes\bin\Debug\tapetes.pdb
+D:\Tareas\SharpDevelop Projects\tapetes\tapetes\obj\Debug\tapetes.exe
+D:\Tareas\SharpDevelop Projects\tapetes\tapetes\obj\Debug\tapetes.pdb
+D:\Tareas\SharpDevelop Projects\tapetes\tapetes\obj\Debug\tapetes.tapetes3.resources
+D:\Tareas\SharpDevelop Projects\tapetes\tapetes\obj\Debug\tapetes.tapetes4.resources
+C:\Users\dulce\tarea\tapetes\tapetes\obj\Debug\tapetes.csprojResolveAssemblyReference.cache
+C:\Users\dulce\tarea\tapetes\tapetes\obj\Debug\tapetes.MainForm.resources
+C:\Users\dulce\tarea\tapetes\tapetes\obj\Debug\tapetes.tapetes2.resources
+C:\Users\dulce\tarea\tapetes\tapetes\obj\Debug\tapetes.tapetes3.resources
+C:\Users\dulce\tarea\tapetes\tapetes\obj\Debug\tapetes.tapetes4.resources
+C:\Users\dulce\tarea\tapetes\tapetes\obj\Debug\tapetes.csproj.GenerateResource.Cache
+C:\Users\dulce\tarea\tapetes\tapetes\obj\Debug\tapetes.exe
+C:\Users\dulce\tarea\tapetes\tapetes\bin\Debug\tapetes.exe.config
+C:\Users\dulce\tarea\tapetes\tapetes\bin\Debug\tapetes.exe
+C:\Users\dulce\tarea\tapetes\tapetes\bin\Debug\tapetes.pdb
+C:\Users\dulce\tarea\tapetes\tapetes\obj\Debug\tapetes.pdb
